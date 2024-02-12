@@ -1,5 +1,13 @@
-### Hi there 👋
+<h1>Hi there, I'm <a href="https://github.com/Alexey956/" target="_blank">Alexey</a> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+studying+to+be+a+developer+.NET.)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexey956)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alexey956)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey956&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Alexey956/Alexey956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
