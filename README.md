@@ -4,6 +4,18 @@
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Alexey956&theme=dark&border_radius=15" alt="GitHub Streak" /></a>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Alexey956&show_icons=true&theme=dark&border_radius=15"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Alexey956&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexey956&show_icons=true" />
+</picture>
+
 <!--
 **Alexey956/Alexey956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
