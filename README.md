@@ -6,8 +6,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexey956)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey956&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Alexey956/Alexey956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
