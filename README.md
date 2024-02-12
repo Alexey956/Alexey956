@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+studying+to+be+a+developer+.NET.)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexey956)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alexey956)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Alexey956&theme=dark&border_radius=15" alt="GitHub Streak" /></a>
 
 <!--
 **Alexey956/Alexey956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
