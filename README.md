@@ -1,6 +1,6 @@
 <h1>Hi there, I'm <a href="https://github.com/Alexey956/" target="_blank">Alexey</a> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+studying+to+be+a+developer+.NET.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+studying+to+be+a+developer)](https://git.io/typing-svg)
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Alexey956&theme=dark&border_radius=15" alt="GitHub Streak" /></a>
 
